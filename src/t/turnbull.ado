@@ -1,4 +1,4 @@
-*! version 1.0          <200100217>          JP Azevedo
+*! version 1.0          <20100217>          JP Azevedo
 
 capture program drop turnbull
 program define turnbull, rclass

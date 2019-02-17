@@ -1,7 +1,7 @@
-v 0.0.0
-d 'TURNBULL' 
+v 1.0
+d 'TURNBULL': Stata module to estimate the Turnbull empirical distribution estimator of willingness to pay
 d 
-d Distribution-Date: 
+d Distribution-Date: 20100217
 d License: MIT
 d 
 F src/t/turnbull.ado
